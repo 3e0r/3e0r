@@ -2,9 +2,9 @@
 layout: single
 title: "3e0r"
 permalink: /
-classes: wide          # пошире контент, как у cu63
-author_profile: true   # показать блок с аватаркой и био
-toc: true              # включить оглавление
+classes: wide
+author_profile: true
+toc: true
 toc_label: "Оглавление"
 toc_icon: "far fa-list-alt"   # иконка в заголовке TOC (можно любую FA)
 ---
