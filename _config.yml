@@ -16,8 +16,7 @@
 title: 3e0r
 
 email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Студент 1 курса Информационной безопасности КНИТУ, пентест, ред тим.
+description:  Студент 1 курса Информационной безопасности КНИТУ, пентест, ред тим.
 minimal_mistakes_skin: dark
 search: true
 
