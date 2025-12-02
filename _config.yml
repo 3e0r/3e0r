@@ -56,7 +56,7 @@ plugins:
 
 author:
   name   : "3e0r"
-  avatar : "/assets/images/bio-photo.png"
+  avatar : "/_assets/images/bio-photo.png"
   bio    : "Зовут меня Артём, можно Тёма или же по нику 3e0r (Зеор)."
   links:
     - label: "Telegram"
@@ -68,15 +68,12 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Telegram"
+      icon: "fab fa-fw fa-github"
+      url: "https://t.me/Ze0r1"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/3e0r"
 
 defaults:
   # _posts
