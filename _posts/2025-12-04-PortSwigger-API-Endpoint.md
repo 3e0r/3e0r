@@ -13,7 +13,7 @@ header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Logo_of_PortSwigger.svg/2560px-Logo_of_PortSwigger.svg.png
   overlay_filter: 0.4
   actions:
-    - label: "Lab PortSwigger"
+    - label: "Lab PortSwigger"https://portswigger.net/web-security/learning-paths/api-testing/api-testing-api-documentation/api-testing/lab-exploiting-api-endpoint-using-documentation
       url: "https://portswigger.net/web-security/learning-paths/api-testing/api-testing-identifying-and-interacting-with-api-endpoints/api-testing/lab-exploiting-unused-api-endpoint"
 ---  
 
@@ -25,7 +25,8 @@ header:
 <img width="331" height="393" alt="image" src="https://github.com/user-attachments/assets/6fdf34d6-791d-4bdd-83d5-e219c9841066" />  
 Правой кнопкой мыши -> Send To Repeater  
 Затем пробуем нащупать ендпойнт с методом GET, в данном случае ендпойнт - /api/  
-И мы видим:
+И мы видим:  
+
 |  Verb  |	        Endpoint         |	Parameters        |	Response       |
 |:------:|:-------------------------:|:------------------:|:--------------:|
 |  GET   | /user/[username: String]  |	{ }               |	200 OK, User   |
