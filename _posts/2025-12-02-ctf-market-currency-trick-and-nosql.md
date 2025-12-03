@@ -5,7 +5,10 @@ categories:
   - ctf
 tags:
   - web
-  - writeup
+header:
+  overlay_image: /assets/images/ctfcup-2025/ctfcup-2025.jpg  # твой баннер
+  overlay_filter: 0.4                                # затемнение (0–1, можно убрать)
+  caption: "Кубок CTF 2025"                       # подпись под картинкой (опционально)
 ---
 
 # Задача из ctfcup-2025 "babyweb"
