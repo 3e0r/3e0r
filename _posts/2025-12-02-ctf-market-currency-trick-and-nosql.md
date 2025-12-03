@@ -6,7 +6,7 @@ categories:
 tags:
   - web
 header:
-  overlay_image: /assets/images/ctfcup-2025/ctfcup-2025.jpg  # твой баннер
+  overlay_image: https://sun9-59.userapi.com/s_zZEilvqUakEGrGq9LHIrYJ52r0hX7kbjzyUw/MC90rp7PPXU.jpg  # твой баннер
   overlay_filter: 0.4                                # затемнение (0–1, можно убрать)
   caption: "Кубок CTF 2025"                       # подпись под картинкой (опционально)
 ---
