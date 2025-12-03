@@ -3,6 +3,7 @@ title: '[WEB] "XSS - Stockée 1"'
 date: 2025-12-03T03:15:00+03:00
 categories:
   - Lab
+  - RootMe
 tags:
   - web
   - xss
