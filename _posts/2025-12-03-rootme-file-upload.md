@@ -13,10 +13,8 @@ header:
     - label: "Lab Root-Me"
       url: "https://www.root-me.org/fr/Challenges/Web-Serveur/File-upload-Double-extensions"
 ---
-# File upload - Double extensions  
-## Галерея v0.02 
-Ваша цель - взломать эту фотогалерею, загрузив PHP-код.  
-Получите пароль проверки в файле .passwd в корне приложения.  
+**Ваша цель - взломать эту фотогалерею, загрузив PHP-код.  
+Получите пароль проверки в файле .passwd в корне приложения.**  
 
 Мы попадаем на сайт, в котором есть несколько разделов. В глаза бросается раздел "Upload"  
 <img width="1919" height="988" alt="image" src="https://github.com/user-attachments/assets/0b2ec078-5ddc-4868-90e4-b6aef7017dc0" />  
