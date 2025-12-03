@@ -1,10 +1,11 @@
 ---
-title: '[WEB] File upload - Double extensions" (ctfcup-2025)'
+title: '[WEB] File upload - Double extensions"'
 date: 2025-12-02T07:14:00+03:00
 categories:
   - Lab
 tags:
   - web
+excerpt: " "
 header:
   overlay_image: https://apprendre-avec-le-jeu.com/wp-content/uploads/2024/03/Root-me-Logo.png
   overlay_filter: 0.4
