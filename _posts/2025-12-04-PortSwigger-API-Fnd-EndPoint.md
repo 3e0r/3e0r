@@ -17,7 +17,7 @@ header:
       url: "https://portswigger.net/web-security/learning-paths/api-testing/api-testing-identifying-and-interacting-with-api-endpoints/api-testing/lab-exploiting-unused-api-endpoint"
 ---  
   
-**Задание: To solve the lab, exploit a hidden API endpoint to buy a Lightweight l33t Leather Jacket. You can log in to your own account using the following credentials: wiener:peter. (Нужно найти скрытый эндпоинт для покупки Lightweight l33t Leather Jacket)**  
+**Задание: To solve the lab, exploit a hidden API endpoint to buy a Lightweight l33t Leather Jacket. You can log in to your own account using the following credentials: wiener:peter. (Нужно найти скрытый эндпоинт для покупки Lightweight l33t Leather Jacket)**    
 Заходя на сайт, мы видим обычный магазин  
 <img width="1919" height="944" alt="image" src="https://github.com/user-attachments/assets/4b400285-5a18-460b-a884-6646d5371a21" />  
 Вставляем ссылку в браузер burp suit и начинаем сильно лазить по сайту, нажимать на все кнопки на сайте, исследовать его. Входим в учетную запись wiener:peter.  
