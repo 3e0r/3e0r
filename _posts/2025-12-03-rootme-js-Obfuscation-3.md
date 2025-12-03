@@ -3,6 +3,7 @@ title: '[WEB] "Javascript - Obfuscation 3"'
 date: 2025-12-03T15:25:00+03:00
 categories:
   - Lab
+  - RootMe
 tags:
   - web
 excerpt: " "
