@@ -8,6 +8,7 @@ tags:
   - web
   - API
 excerpt: " "
+classes: wide
 header:
   overlay_color: "#ffffff"
   overlay_image: "https://img.freepik.com/free-vector/flat-design-full-moon-party-twitch-banner_23-2150974141.jpg?semt=ais_hybrid&w=740&q=80"
