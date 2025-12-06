@@ -1,6 +1,6 @@
 ---
 title: '[WEB] NextJason - NullCTF'
-date: 2025-12-03T11:02:00+03:00
+date: 2025-12-06T17:09:00+03:00
 categories:
   - NullCTF
   - ctf
