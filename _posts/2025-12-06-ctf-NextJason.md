@@ -6,7 +6,7 @@ categories:
   - ctf
 tags:
   - web
-  - API
+  - JWT
 excerpt: " "
 classes: wide
 header:
